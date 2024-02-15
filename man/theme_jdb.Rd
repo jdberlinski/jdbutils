@@ -4,7 +4,7 @@
 \alias{theme_jdb}
 \title{ggplot2 theme}
 \usage{
-theme_jdb(gridlines = FALSE)
+theme_jdb(gridlines = FALSE, text = "sans")
 }
 \arguments{
 \item{gridlines}{Should grid lines be included in the plot}
