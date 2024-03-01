@@ -46,6 +46,9 @@ remove_axis_ticks <- function() {
                  axis.text  = ggplot2::element_blank())
 }
 
+# below taken with some modifications from Koundinya Desiraju
+# https://rpubs.com/Koundy/71792
+
 #' ggplot2 publication theme
 #'
 #' @param base_size base font size
